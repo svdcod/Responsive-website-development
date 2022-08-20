@@ -2,7 +2,7 @@
   "name": "web-app1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://svdcod.github.io/Responsive-website-development/",
+  "homepage": "https://svdcod.github.io",
   "dependencies": {
     "@syncfusion/ej2-react-dropdowns": "^20.2.40",
     "@testing-library/jest-dom": "^5.16.4",
@@ -13,6 +13,7 @@
     "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "save-dev": "^0.0.1-security",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -21,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy" :"gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
