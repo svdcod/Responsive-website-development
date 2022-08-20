@@ -66,6 +66,7 @@ export default function Menu() {
           <SwNDeserts />
       </div>
       <ContactUs/>
+      <footer style={{backgroundColor:"	#A52A2A"}}>Copyright &copy; 2035 All rights reserved</footer>
     </div>
   );
 }

@@ -32,6 +32,7 @@ export default function Rice() {
             {Object.values(in_rice).map((ir, index) => {
               return (
                 <div key={index}>
+                  <hr></hr>
                   <div>
                     {ir.name}
                     <p>Rs.{ir.price}/-</p>
