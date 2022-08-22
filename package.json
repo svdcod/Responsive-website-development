@@ -2,7 +2,7 @@
   "name": "web-app1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://svdcod.github.io/gh-page",
+  "homepage": "https://svdcod.github.io/Responsive-Website1",
   "dependencies": {
     "@syncfusion/ej2-react-dropdowns": "^20.2.40",
     "@testing-library/jest-dom": "^5.16.4",
