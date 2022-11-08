@@ -1,6 +1,6 @@
 import React from "react";
 import { ReactDOM } from "react";
-import Img from "../myimgs/download.jpg";
+import Img from "../myimgs/background.jpg";
 
 export default function Catering(props) {
 // console.log(props.ipdata.caters)

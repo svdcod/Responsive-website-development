@@ -1,5 +1,5 @@
 import React from "react";
-import Img from "../myimgs/download.jpg";
+import Img from "../myimgs/background.jpg";
 import "../css's/birthday.css"
 export default function BookDin(props) {
   const seat=()=>{
