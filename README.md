@@ -25,7 +25,7 @@
     -->
     <title>React App</title>
   </head>
-    <script src="./index.js"></script>
+    <script src="./src/index.js"></script>
     <p>hello</p>
     <div id="root"></div>
     <!--
