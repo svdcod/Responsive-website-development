@@ -23,7 +23,7 @@ export default function ContactUs() {
   <label>Name:</label>
   <input type="text" className="send_name" name="sender" placeholder="Your Name"></input>
   <label>Service Requests:</label>
-  <input type="text" className="serv_req" name="requests" placeholder="Service Requested" value={""}></input>
+  <input type="text" className="serv_req" name="requests" placeholder="Service Requested"></input>
   <label>Phone:</label>
   <input type="text" className="phone_serv" name="phone" placeholder="Phone number"></input>
   <label>Description</label>

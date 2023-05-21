@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "../css's/birthday.css";
-import Img from "../myimgs/download.jpg";
+import Img from "../myimgs/background.jpg";
 // import {Link} from "react-router-dom"
 
 export default function Birthday(props) {
