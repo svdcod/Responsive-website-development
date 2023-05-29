@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/svdcod/Responsive-Website1/static/css/main.1a0e133e.css",
-    "main.js": "/svdcod/Responsive-Website1/static/js/main.1753bfaf.js",
-    "static/js/787.f8e9a97d.chunk.js": "/svdcod/Responsive-Website1/static/js/787.f8e9a97d.chunk.js",
-    "static/media/about_img.png": "/svdcod/Responsive-Website1/static/media/about_img.2ce901e1c7d5df2b2c52.png",
-    "static/media/logo.png": "/svdcod/Responsive-Website1/static/media/logo.f165209a786f0eb878ff.png",
-    "static/media/background.jpg": "/svdcod/Responsive-Website1/static/media/background.277d228ff05dd39fe033.jpg",
-    "static/media/images.jpg": "/svdcod/Responsive-Website1/static/media/images.30e7880ec571975b86cd.jpg",
-    "index.html": "/svdcod/Responsive-Website1/index.html",
-    "main.1a0e133e.css.map": "/svdcod/Responsive-Website1/static/css/main.1a0e133e.css.map",
-    "main.1753bfaf.js.map": "/svdcod/Responsive-Website1/static/js/main.1753bfaf.js.map",
-    "787.f8e9a97d.chunk.js.map": "/svdcod/Responsive-Website1/static/js/787.f8e9a97d.chunk.js.map"
+    "main.css": "/Responsive-website-development/static/css/main.a0358720.css",
+    "main.js": "/Responsive-website-development/static/js/main.ff6ca8bd.js",
+    "static/js/787.f8e9a97d.chunk.js": "/Responsive-website-development/static/js/787.f8e9a97d.chunk.js",
+    "static/media/about_img.png": "/Responsive-website-development/static/media/about_img.2ce901e1c7d5df2b2c52.png",
+    "static/media/logo.png": "/Responsive-website-development/static/media/logo.f165209a786f0eb878ff.png",
+    "static/media/background.jpg": "/Responsive-website-development/static/media/background.277d228ff05dd39fe033.jpg",
+    "static/media/images.jpg": "/Responsive-website-development/static/media/images.30e7880ec571975b86cd.jpg",
+    "index.html": "/Responsive-website-development/index.html",
+    "main.a0358720.css.map": "/Responsive-website-development/static/css/main.a0358720.css.map",
+    "main.ff6ca8bd.js.map": "/Responsive-website-development/static/js/main.ff6ca8bd.js.map",
+    "787.f8e9a97d.chunk.js.map": "/Responsive-website-development/static/js/787.f8e9a97d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a0e133e.css",
-    "static/js/main.1753bfaf.js"
+    "static/css/main.a0358720.css",
+    "static/js/main.ff6ca8bd.js"
   ]
 }
